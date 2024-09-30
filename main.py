@@ -1,0 +1,2 @@
+x = 'dfghjkl'
+print(x)
